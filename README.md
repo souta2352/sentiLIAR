@@ -1,1 +1,1 @@
-#sentiLIAR
+sentimentalLIARの改良
